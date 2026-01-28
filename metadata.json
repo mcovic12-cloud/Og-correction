@@ -1,0 +1,7 @@
+{
+  "name": "On-Model Correction Assistant",
+  "description": "Production-grade art refinement tool featuring vector-guided reference retrieval, localized anatomy correction, and line-adherence cleanup.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
